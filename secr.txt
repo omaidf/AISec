@@ -1,0 +1,14 @@
+transformers>=4.40.0
+torch>=2.2.0
+
+# LangChain components
+langchain>=0.1.10
+langchain-community>=0.0.28
+
+# Vector store and embeddings
+faiss-cpu>=1.8.0
+
+# Additional utilities
+tqdm>=4.66.0  # Optional for progress bars
+sentence_transformers
+accelerate
